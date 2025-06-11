@@ -1,5 +1,5 @@
 {
-  "name": "@icebeam7/paquete-stadistica-sf",
+  "name": "@icebeam7/paquete-stadistica-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/Ryot211/paquete-stadistica-cf.git"
   },
   "keywords": [],
-  "author": "Bryan Gallardo",
+  "author": "Luis Beltran",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
