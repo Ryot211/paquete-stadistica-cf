@@ -1,5 +1,5 @@
 {
-  "name": "paquete-stadistica-cf",
+  "name": "@icebeam7/paquete-stadistica-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
